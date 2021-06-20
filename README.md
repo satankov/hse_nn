@@ -1,3 +1,4 @@
 # hse_nn
-HSE | Graduate | NN
+HSE | Graduate | NN  
+
 Neural network structure in .ipynb file.
